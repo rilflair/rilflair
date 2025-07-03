@@ -1,5 +1,5 @@
 # 💫 About Me:
-road to professional rogue quant trader<br>
+on journey to be rogue quant trader<br>
 
 
 # 💻 Tech Stack:
